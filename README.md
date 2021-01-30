@@ -1,2 +1,2 @@
-# homework2-2021
-This is homework 02 for SI539.
+# hw2-2020
+The starter code for Homework 2 Winter 2021 term
